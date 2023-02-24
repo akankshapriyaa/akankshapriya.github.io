@@ -1,0 +1,28 @@
+*{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url("pexels-martin-péchy-304664.jpg");
+    object-fit: cover;
+}
+h1{
+    color: rgb(71, 69, 69);
+    font-size: 60px;
+}
+#input #work,#add{
+    color: rgb(86, 78, 78);
+    font-size: 18px;
+    border: solid;
+}
+#work{
+    height: 45px;
+    width: 400px;
+}
+#add{
+    height: 51px;
+    width: 60px;
+}
+p{
+    font-size: 30px;
+}
